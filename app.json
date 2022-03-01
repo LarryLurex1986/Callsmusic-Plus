@@ -2,7 +2,7 @@
   "name": "CallsMusic-Plus",
   "description": "Telegram Voice Chat Music Player Bot Based On Callsmusic with Extrac Features!",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://heroku.com/deploy?template=https://github.com/Itz-fork/Callsmusic-Plus",
+  "repository": "https://github.com/LarryLurex1986/bdcent",
   "logo": "https://telegra.ph/file/7fa5bd949db5061e6f361.jpg",
   "stack": "container",
   "env": {
@@ -66,7 +66,7 @@
     "UPSTREAM_REPO": {
       "description": "Github Repo Url. Only needed if you are using your own Fork!",
       "required": false,
-      "value": "https://github.com/Itz-fork/Callsmusic-Plus"
+      "value": "https://github.com/LarryLurex1986/bdcent"
     },
     "THUMB_URL": {
       "description": "Thumbnail Url To Use in play, search commands. Add this only if you need a custom one instead of default thumbnail",
